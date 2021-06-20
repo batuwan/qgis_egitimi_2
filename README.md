@@ -1,4 +1,4 @@
-# HKMO İstanbul Akademi | Özgür ve Açık Kaynaklı CBS - İleri Uygulamalar 23/05/2021
+# HKMO İstanbul Akademi | Özgür ve Açık Kaynaklı CBS - İleri Uygulamalar 20/06/2021
 
 
 ## Dokümanlar
